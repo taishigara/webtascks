@@ -1,0 +1,60 @@
+<html>
+<head>
+<style>
+body{
+	background-color: #F4F5F7;
+}
+.home{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;  
+	margin-left: 10px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+	width: 80px;
+	height: 25px;
+	background-color: #008001;
+	border:1px solid red;
+}
+.about{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+	margin-left: 50px;
+	border:1px solid red;
+	float: left;
+	border-radius: 10px;
+	width: 80px;
+	height: 25px;
+	background-color: #008001;
+	margin-top:  20px;
+}
+.contacts{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+	margin-top: 20px;
+	border:1px solid red;
+	float: left;
+	border-radius: 10px;
+	background-color: #008001;
+	width: 80px;
+	height: 25px;
+	margin-left: 50px;
+}
+a{	
+	text-decoration: none;
+	color:white;
+	
+}
+</style>
+</head>
+<body>
+
+	<div class="home"><a href="home.html"><center>Home</center></a></div>
+	<div class="about"><a href="about.html"><center>About</center></a></div>  
+  	<div class="contacts"><a href="contacts.html"><center>Contacts</center></a></div>
+  
+</body>
+</html>
